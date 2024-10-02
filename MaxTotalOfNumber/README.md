@@ -1,1 +1,1 @@
-# <img src="question.jpeg" />
+# <img src="question.jpeg" width="500" height="500" />
